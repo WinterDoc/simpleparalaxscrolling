@@ -1,2 +1,2 @@
-# simpleparalaxscrolling
-Simple Paralax Scrolling
+#Simple Paralax Scrolling<br/>
+https://winterdoc.github.io/simpleparalaxscrolling/
